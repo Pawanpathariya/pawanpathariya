@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Shivendra sisodia</h1>
+<h1 align="center">Hi 👋, I'm Pawan Pathariya </h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shivendrasis&label=Profile%20views&color=0e75b6&style=flat" alt="shivendrasis" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Pawanpathariya&label=Profile%20views&color=0e75b6&style=flat" alt="Pawanpathariya" /> </p>
 
 <hr>
 
@@ -13,13 +13,13 @@
  💬 Ask me about **Frontend and Backend**
  <br>
  
- 📫 How to reach me **sisodiashivendra66@gmail.com** 
+ 📫 How to reach me **pawanpathariys@gmail.com** 
 
  </div>
 
 <hr>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivendrasis" alt="shivendrasis" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pawanpathariya" alt="pawanpathariya" /></a> </p>
 
 <hr>
 
@@ -37,7 +37,7 @@
 
 
 <hr>
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=shivendrasis&show_icons=true&theme=buefy">
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=pawanpathariya&show_icons=true&theme=buefy">
 
 </div>
 <hr>
@@ -48,9 +48,9 @@
 <p>
 
  <div align="center">
-  <p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=shivendrasis&show_icons=true&locale=en&layout=compact" alt="shivendrasis" /></p>
+  <p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=pawanpathariya&show_icons=true&locale=en&layout=compact" alt="pawanpathariya" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shivendrasis&show_icons=true&locale=en" alt="shivendrasis" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pawanpathariya&show_icons=true&locale=en" alt="pawanpathariya" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivendrasis&" alt="shivendrasis" /></p>
 
@@ -60,7 +60,7 @@
 <hr>
 <h3 align="center">Contribution:</h3>
 <hr />
-<p align='center'><img src='https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shivendrasis&theme=buefy'>
+<p align='center'><img src='https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pawanpathariya&theme=buefy'>
 <br>
 <br>
 
@@ -69,7 +69,7 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/shivendra sisodia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shivendra sisodia" height="30" width="40" /></a>
-<a href="https://fb.com/shivendra sisodia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shivendra sisodia" height="30" width="40" /></a>
-<a href="https://instagram.com/iamshivendrasisodia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iamshivendrasisodia" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/shivendra sisodia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Pawan pathariya" height="30" width="40" /></a>
+<a href="https://fb.com/Pawan pathariya " target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Pawan pathariya" height="30" width="40" /></a>
+<a href="https://instagram.com/pawan_pathariya_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pawan_pathariya_" height="30" width="40" /></a>
 </p>
