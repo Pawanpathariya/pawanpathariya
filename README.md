@@ -37,8 +37,8 @@
 
 
 <hr>
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Pawanpathariya&show_icons=true&theme=buefy">
 
+<figure><embed src="https://wakatime.com/share/@82367c51-5482-4865-9f78-8656e1a81444/456cc851-1f1f-46ae-ad42-2d58ccdfa48c.svg"></embed></figure>
 </div>
 <hr>
 
