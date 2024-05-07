@@ -19,7 +19,7 @@
 
 <hr>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pawanpathariya" alt="pawanpathariya" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Pawanpathariya" alt="Pawanpathariya" /></a> </p>
 
 <hr>
 
@@ -48,11 +48,11 @@
 <p>
 
  <div align="center">
-  <p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=pawanpathariya&show_icons=true&locale=en&layout=compact" alt="pawanpathariya" /></p>
+  <p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=Pawanpathariya&show_icons=true&locale=en&layout=compact" alt="Pawanpathariya" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pawanpathariya&show_icons=true&locale=en" alt="pawanpathariya" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Pawanpathariya&show_icons=true&locale=en" alt="Pawanpathariya" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivendrasis&" alt="shivendrasis" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Pawanpathariya&" alt="Pawanpathariya" /></p>
 
 </div align="center">
 </p>
@@ -60,7 +60,7 @@
 <hr>
 <h3 align="center">Contribution:</h3>
 <hr />
-<p align='center'><img src='https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pawanpathariya&theme=buefy'>
+<p align='center'><img src='https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pawanpathariya&theme=buefy'>
 <br>
 <br>
 
@@ -69,7 +69,7 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/shivendra sisodia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Pawan pathariya" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/Pawan Pathariya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Pawan pathariya" height="30" width="40" /></a>
 <a href="https://fb.com/Pawan pathariya " target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Pawan pathariya" height="30" width="40" /></a>
 <a href="https://instagram.com/pawan_pathariya_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pawan_pathariya_" height="30" width="40" /></a>
 </p>
