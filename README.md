@@ -70,6 +70,6 @@
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/pawan-pathariya-83203726a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Pawan Pathariya" height="30" width="40" /></a>
-<a href="https://fb.com/Pawan Pathariya Rajput" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Pawan Pathariya Rajput" height="30" width="40" /></a>
+<a href="https://www.facebook.com/pawan.pathariya.9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Pawan Pathariya Rajput" height="30" width="40" /></a>
 <a href="https://instagram.com/pawan_pathariya_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pawan_pathariya_" height="30" width="40" /></a>
 </p>
