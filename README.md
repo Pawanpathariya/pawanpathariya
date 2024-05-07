@@ -37,7 +37,7 @@
 
 
 <hr>
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=pawanpathariya&show_icons=true&theme=buefy">
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Pawanpathariya&show_icons=true&theme=buefy">
 
 </div>
 <hr>
