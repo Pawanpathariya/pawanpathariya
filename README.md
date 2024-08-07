@@ -32,8 +32,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pawanpathariya&show_icons=true&locale=en" alt="pawanpathariya" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pawanpathariya&" alt="pawanpathariya" /></p>
-
-
-## WakaTime Stats
-
-![WakaTime](https://wakatime.com/badge/user/waka_b244d5f8-c3ae-41df-a8d5-27b4ee1771ec.svg)
