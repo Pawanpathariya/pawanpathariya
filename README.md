@@ -39,7 +39,7 @@
 
 
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=pawanpathariya&show_icons=true&theme=buefy"></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=Pawanpathariya&show_icons=true&theme=buefy"></p>
                                                                                                                       
 
 
