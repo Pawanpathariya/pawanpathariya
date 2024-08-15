@@ -1,3 +1,4 @@
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=pawanpathariya&label=Profile%20views&color=0e75b6&style=flat" alt="pawanpathariya" /> </p>
 <p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p>
 <p align="center">
 </p>
@@ -6,15 +7,13 @@
 <h1 align="center">hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
 <p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
-  
+
 
 
 <h1 align="center">Hi 👋, I'm Pawan Pathariya</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pawanpathariya&label=Profile%20views&color=0e75b6&style=flat" alt="pawanpathariya" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pawanpathariya" alt="pawanpathariya" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-trophies.vercel.app/?username=pawanpathariya" alt="pawanpathariya" /></a> </p>
 
 - 🌱 I’m currently learning **Full Stack Java Development**
 
