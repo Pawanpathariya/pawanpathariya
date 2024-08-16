@@ -37,13 +37,8 @@
 
 <h3 align="center">Wakatime Stats:</h3>
 
-
-
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=Pawanpathariya&show_icons=true&theme=buefy"></p>
-                                                                                                                      
-
-
-
+                                             
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pawanpathariya&show_icons=true&locale=en&layout=compact" alt="pawanpathariya" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pawanpathariya&show_icons=true&locale=en" alt="pawanpathariya" /></p>
