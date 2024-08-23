@@ -38,7 +38,7 @@
 <hr />
 <p align='center'><img src='https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pawanpathariya&theme=buefy'>
 <br>
-<br>
+<hr>
 
   <p align="center"> <img src="https://komarev.com/ghpvc/?username=pawanpathariya&label=Profile%20views&color=0e75b6&style=flat" alt="shivendrasis" /> </p>
 
