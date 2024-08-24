@@ -38,19 +38,18 @@
 <hr />
 <p align='center'><img src='https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pawanpathariya&theme=buefy'>
 <br>
-<hr>
 
   <p align="center"> <img src="https://komarev.com/ghpvc/?username=pawanpathariya&label=Profile%20views&color=0e75b6&style=flat" alt="shivendrasis" /> </p>
 
 
-<hr>
-
 <h3 align="center">Wakatime Stats:</h3>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=Pawanpathariya&show_icons=true&theme=buefy"></p>
+<br>
                                              
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pawanpathariya&show_icons=true&locale=en&layout=compact" alt="pawanpathariya" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pawanpathariya&show_icons=true&locale=en&layout=compact" alt="pawanpathariya" /></p>
+<br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pawanpathariya&show_icons=true&locale=en" alt="pawanpathariya" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pawanpathariya&" alt="pawanpathariya" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pawanpathariya&show_icons=true&locale=en" alt="pawanpathariya" /></p>
+<br>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pawanpathariya&" alt="pawanpathariya" /></p>
