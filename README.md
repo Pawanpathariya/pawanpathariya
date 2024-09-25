@@ -60,7 +60,9 @@
 <br>
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pawanpathariya&show_icons=true&locale=en" alt="pawanpathariya" /></p>
-<hr>
+
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pawanpathariya&" alt="pawanpathariya" /></p>
+
 
 ### ✍️ Random Quote
 ![Quote](https://github-readme-quotes-bay.vercel.app/quote)
@@ -71,4 +73,4 @@
 <hr>
 
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pawanpathariya&" alt="pawanpathariya" /></p>
+
