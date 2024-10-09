@@ -49,12 +49,8 @@
 <p align='center'><img src='https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pawanpathariya&theme=buefy'>
 <br>
 
-  <p align="center"> <img src="https://komarev.com/ghpvc/?username=pawanpathariya&label=Profile%20views&color=0e75b6&style=flat" alt="shivendrasis" /> </p>
+  <p align="center"> <img src="https://komarev.com/ghpvc/?username=pawanpathariya&label=Profile%20views&color=0e75b6&style=flat" alt="pawanpathariya" /> </p>
 
-
-<h3 align="center">Wakatime Stats:</h3>
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=Pawanpathariya&show_icons=true&theme=buefy"></p>
 <br>
                                              
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pawanpathariya&show_icons=true&locale=en&layout=compact" alt="pawanpathariya" /></p>
