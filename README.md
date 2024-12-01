@@ -10,7 +10,7 @@
 
 
 <h1 align="center"> I'm Pawan Pathariya </h1>
-<h3 align="center">A passionate MERN Stack Developer from India</h3>
+<h3 align="center">A Passionate MERN Stack Developer from India</h3>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pawanpathariya" alt="pawanpathariya" /></a> </p>
 
 - 🌱 I’m currently learning **MERN Stack Development**
