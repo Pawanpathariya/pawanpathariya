@@ -15,7 +15,6 @@
 - 🌱 I’m currently learning **MERN Stack Development**
 
 - 💬 Ask me about **Frontend and Backend**
-
 - 📫 How to reach me **pawanpathariys@gmail.com**
 <h3 align="left">Connect with me: </h3>
 <p align="left">
