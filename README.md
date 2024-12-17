@@ -13,7 +13,6 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pawanpathariya" alt="pawanpathariya" /></a> </p>
 
 - 🌱 I’m currently learning **MERN Stack Development**
-
 - 💬 Ask me about **Frontend and Backend**
 - 📫 How to reach me **pawanpathariys@gmail.com**
 <h3 align="left">Connect with me: </h3>
