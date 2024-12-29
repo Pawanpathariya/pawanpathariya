@@ -50,9 +50,9 @@
 
 <br>
                                              
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pawanpathariya&show_icons=true&locale=en&layout=compact" alt="pawanpathariya" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pawanpathariya&show_icons=true&locale=en&layout=compact" alt="pawanpathariya" /> <img align="center" src="https://github-readme-stats.vercel.app/api?username=pawanpathariya&show_icons=true&locale=en" alt="pawanpathariya" /> </p>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=pawanpathariya&show_icons=true&locale=en" alt="pawanpathariya" />  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pawanpathariya&" alt="pawanpathariya" /></p>
+<p align="center"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pawanpathariya&" alt="pawanpathariya" /></p>
 
 
 ### ✍️ Random Quote
