@@ -53,7 +53,8 @@
 
 
 ### ✍️ Random Quote
-![Quote](https://github-readme-quotes-bay.vercel.app/quote)
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=light)
+<img align="right"  alt="code thinking"  width="360px" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif">
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=pawanpathariya&limit=5&theme=github_light&combine_all_yearly_contributions=true)
