@@ -1,11 +1,14 @@
-<p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p>
+<h1 align="center">Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
+<div align="center">
+  <img src="https://github.com/chiragdhunna/chiragdhunna/assets/76210441/7bcab350-6607-4c0d-8c26-1783500630c3" width="300" style="border-radius: 50%;" />
+</div>  
+
+
+### <div align="center">I'm Pawan, a MERN Stack Developer.</div>  
+  
 <p align="center">
 </p>
 <p align="center"> 
-<h1 align="center">hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
-<p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
-<h1 align="center"> I'm Pawan Pathariya </h1>
-<h3 align="center">A Passionate MERN Stack Developer from India</h3>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pawanpathariya" alt="pawanpathariya" /></a> </p>
 <h5>🌱 I’m currently learning MERN Stack Development </h5>
 <h5>💬 Ask me about Frontend and Backend </h5> 
