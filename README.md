@@ -26,6 +26,7 @@
 <a href="https://www.leetcode.com/pawanpathariya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pawanpathariya" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/pawanpathariya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="pawanpathariya" height="30" width="40" /></a>
 </p>
+<hr/> 
 
 # 💻 Tech Stack:
 
@@ -74,6 +75,7 @@
  <br/>
 <hr>
 
+<h3 align="center">Github Stats:</h3>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pawanpathariya" alt="pawanpathariya" /></a> </p>
 <hr>
 <h3 align="center">Contribution:</h3>
