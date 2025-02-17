@@ -4,7 +4,7 @@
 </div>  
 
 
-### <div align="center">I'm Pawan, a MERN Stack Developer.</div>  
+### <div align="center">I'm Pawan Pathariya, a MERN Stack Developer.</div>  
   
 <p align="center">
 </p>
