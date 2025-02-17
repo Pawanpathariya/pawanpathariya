@@ -1,3 +1,4 @@
+
 <h1 align="center">Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 <div align="center">
   <img src="https://github.com/chiragdhunna/chiragdhunna/assets/76210441/7bcab350-6607-4c0d-8c26-1783500630c3" width="300" style="border-radius: 50%;" />
@@ -8,9 +9,12 @@
   
 <p align="center">
 </p>
+
+# 💫 About Me:
+# MERN Full-Stack Developer </br> [ { ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) } , { ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) } , { ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) }, { ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) } ]
+
 <p align="center"> 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pawanpathariya" alt="pawanpathariya" /></a> </p>
-<h5>🌱 I’m currently learning MERN Stack Development </h5>
+  <h5>🌱 I’m currently learning MERN Stack Development </h5>
 <h5>💬 Ask me about Frontend and Backend </h5> 
 <h5>📫 How to reach me pawanpathariys@gmail.com </h5>
 <h3 align="left">Connect with me: </h3>  
@@ -37,6 +41,7 @@
 </p>
 <hr>
 
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pawanpathariya" alt="pawanpathariya" /></a> </p>
 <hr>
 <h3 align="center">Contribution:</h3>
 <hr />
