@@ -12,7 +12,7 @@
 # 💫 About Me:
 # MERN Full-Stack Developer </br> [ { ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) } , { ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) } , { ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) }, { ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) } ]
 
-<p align="center"> 
+<p align="center">
   <h5>🌱 I’m currently learning MERN Stack Development </h5>
 <h5>💬 Ask me about Frontend and Backend </h5> 
 <h5>📫 How to reach me pawanpathariys@gmail.com </h5>
